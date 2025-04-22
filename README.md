@@ -2,9 +2,7 @@
 
 ## Overview
 
-The 741SE Discrete Operational Amplifier is a surface‑mount soldering kit that lets you build a faithful, transistor‑scale replica of the μA741 op‑amp IC, the classic analog workhorse first released by Fairchild Semiconductor in 1968 :contentReference[oaicite:0]{index=0}.  
-Operational amplifiers (“op‑amps”) are fundamental building blocks in analog electronics; the μA741 set the standard for general‑purpose amplifiers and remains in production over 50 years later :contentReference[oaicite:1]{index=1}.  
-Designed by Eric Schlaepfer in collaboration with Evil Mad Scientist Laboratories, the kit features a matte‑black PCB with clear solder mask and an anodized‑aluminum “IC Leg” stand styled to resemble SOIC pins :contentReference[oaicite:2]{index=2}.
+The 741SE Discrete Operational Amplifier is a surface‑mount soldering kit that lets you build a faithful, transistor‑scale replica of the μA741 op‑amp IC, the classic analog workhorse first released by Fairchild Semiconductor in 1968.  
 
 ## Features
 
